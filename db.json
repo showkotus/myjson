@@ -1,0 +1,60 @@
+{
+  "hero_slides": [
+    {
+      "title": "Welcome to Gallery The Illusions",
+      "subtitle": "Where Art Meets Imagination",
+      "description": "Discover extraordinary artworks from talented artists around the world in our curated collection.",
+      "image_url": "blob:http://localhost:4173/4a960154-cb1c-4fb3-aa2c-de9cc312826b",
+      "image_file": {},
+      "cta_text": "Explore Gallery",
+      "cta_link": "/gallery",
+      "text_position": "center",
+      "text_color": "#ffffff",
+      "active": true,
+      "updated_at": "2025-06-15T06:57:39.944Z",
+      "id": "1"
+    },
+    {
+      "title": "Featured Artists Showcase",
+      "subtitle": "Meet Our Creative Community",
+      "description": "Get to know the passionate artists who bring their unique visions to life through stunning visual art.",
+      "image_url": "blob:http://localhost:4173/729e9949-ea0c-483e-931b-db0638871593",
+      "image_file": {},
+      "cta_text": "Meet Artists",
+      "cta_link": "/artists",
+      "text_position": "center",
+      "text_color": "#ffffff",
+      "active": true,
+      "updated_at": "2025-06-15T06:57:49.840Z",
+      "id": "2"
+    },
+    {
+      "title": "Exclusive Art Auctions",
+      "subtitle": "Bid on Rare Masterpieces",
+      "description": "Participate in our exciting art auctions and own a piece of contemporary artistic excellence.",
+      "image_url": "blob:http://localhost:4173/872274a9-1e9c-411d-a71a-c52d3415c8de",
+      "image_file": {},
+      "cta_text": "View Auctions",
+      "cta_link": "/auctions",
+      "text_position": "center",
+      "text_color": "#ffffff",
+      "active": true,
+      "updated_at": "2025-06-15T06:57:58.919Z",
+      "id": "3"
+    },
+    {
+      "title": "test edit",
+      "subtitle": "test edit",
+      "description": "test edit",
+      "image_url": "blob:http://localhost:4173/4f5c224e-d728-44f3-be5b-2bf9ff199e5e",
+      "image_file": {},
+      "cta_text": "Explore Gallery",
+      "cta_link": "/gallery",
+      "text_position": "center",
+      "text_color": "#ffffff",
+      "active": true,
+      "updated_at": "2025-06-15T06:58:07.611Z",
+      "id": "4"
+    }
+  ]
+}
